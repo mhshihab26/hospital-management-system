@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634438411 source:e:\programming project\simplehospitalmanagement_cprogramming\simplehospitalmanagement-system-c\hms\main.c
+
+1634438501 source:e:\programming project\simplehospitalmanagement_cprogramming\simplehospitalmanagement-system-c\hms\asd.c
+	<stdio.h>
+	<string.h>
+
